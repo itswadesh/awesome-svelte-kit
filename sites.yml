@@ -681,3 +681,19 @@
   dateCreated: 2021-11-29
   dateAdded: 2022-01-04
   lastUpdated: 2022-01-04
+  
+- id: 41
+  title: Fast Ecommerce Storefront using SvelteKit
+  creators:
+    - name: Swadesh Behera
+      twitter: itswadesh
+      github: itswadesh
+      url: https://github.com/itswadesh
+  url: https://svelte-commerce.litekart.in
+  repo: https://github.com/itswadesh/svelte-commerce
+  description: Create your own store front and attach to any api based backend.
+  uses: [TailwindCSS]
+  tags: [ecommerce]
+  dateCreated: 2019-11-20
+  dateAdded: 2022-02-04
+  lastUpdated: 2022-02-04
